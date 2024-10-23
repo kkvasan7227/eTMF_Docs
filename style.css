@@ -8,7 +8,7 @@ body {
 .display-area {
     text-align: center;
     width: 100%;
-    height: 500px;
+    height: 100%;
     border: 1px solid transparent;
     background-color:transparent;
     margin: 20px auto;
